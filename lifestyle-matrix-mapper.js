@@ -1,5 +1,13 @@
 const lifeStyleArticles = [
   {
+    link: "The-Sun-Sets-at-Six-A-Conversation-with-Antares-Yee",
+    image:
+      "https://freight.cargo.site/t/original/i/1987ced17fdfc81db52b0023b81c2ae04589bffade63ae3aeef41d74a0d445f5/antares_07-min.jpg",
+    type: "Interview",
+    name: "The Sun Sets at Six: A Conversation with Antares Yee",
+    description: `Using the sun mao (榫卯) technique to design his furniture, the creative director or Sun at Six discusses what it's like to create functional works of art in the era of Trump.`,
+  },
+  {
     link: "Une-invitation-aux-asiatiques-a-prendre-la-vie-doucement",
     image:
       "https://freight.cargo.site/t/original/i/d33d7ca23c5baf46eef56a0764e248563f0044cb54f4707c2aeece34f38db925/Laura-Color-3.JPG",
@@ -16,7 +24,7 @@ const lifeStyleArticles = [
     description: `In her latest EP Vasilia, LIA’s sultry voice hums over bell sounds and shuffling noises as she tells a story of resilience inspired by a Slavic fairytale.`,
   },
   {
-    link: "Art-Versus-Injustice-Catching-Up-With-Albert-Nguyen,
+    link: "Art-Versus-Injustice-Catching-Up-With-Albert-Nguyen",
     image:
       "https://freight.cargo.site/t/original/i/fd49ed92ae342fb055b74f8318cbc8b1990db3b1e7c9bff4e2caf9cd09b13c9d/Thumbnail-picture-1.jpg",
     type: "Interview",
