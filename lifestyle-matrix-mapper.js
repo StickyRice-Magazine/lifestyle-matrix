@@ -1,11 +1,27 @@
 const lifeStyleArticles = [
   {
+    link: "Drawing-Strength-from-Within-Perspectives-from-Mixed-Martial-Arts",
+    image:
+      "https://freight.cargo.site/t/original/i/099402d6f230b46dc26804b637818be0d9a03944007e1a7e0f6dfb8762cbe196/Stickyrice_MMA_homepage.jpg",
+    type: "Interview",
+    name: "Drawing Strength from Within: Perspectives from Mixed Martial Arts Fighters",
+    description: `Celebrated coach and trainer Christian Hip reflects on the art of MMA, and sits down with some of the best fighters (and coaches) in the field.`,
+  },
+  {
+    link: "The-Sun-Sets-at-Six-A-Conversation-with-Antares-Yee",
+    image:
+      "https://freight.cargo.site/t/original/i/1987ced17fdfc81db52b0023b81c2ae04589bffade63ae3aeef41d74a0d445f5/antares_07-min.jpg",
+    type: "Interview",
+    name: "The Sun Sets at Six: A Conversation with Antares Yee",
+    description: `Using the sun mao (榫卯) technique to design his furniture, the creative director or Sun at Six discusses what it's like to create functional works of art in the era of Trump.`,
+  },
+  {
     link: "Une-invitation-aux-asiatiques-a-prendre-la-vie-doucement",
     image:
       "https://freight.cargo.site/t/original/i/d33d7ca23c5baf46eef56a0764e248563f0044cb54f4707c2aeece34f38db925/Laura-Color-3.JPG",
-    type: "Interview",
+    type: "Entrevue",
     name: "Une invitation aux asiatiques a prendre la vie doucement",
-    description: `Une conversation avec Laura Nhem qui a lancé le podcast Asiate imparfaite, des entrevues avec des asiatiques qui sont, tout comme Laura, imparfaits.`,
+    description: `Une conversation avec Laura Nhem qui a lancé le podcast Asiate Imparfaite, des entrevues avec des asiatiques qui sont, tout comme Laura, imparfaits.`,
   },
   {
     link: "To-Harness-Your-Inner-Light-Up-Close-with-LIA",
@@ -16,7 +32,7 @@ const lifeStyleArticles = [
     description: `In her latest EP Vasilia, LIA’s sultry voice hums over bell sounds and shuffling noises as she tells a story of resilience inspired by a Slavic fairytale.`,
   },
   {
-    link: "Art-Versus-Injustice-Catching-Up-With-Albert-Nguyen,
+    link: "Art-Versus-Injustice-Catching-Up-With-Albert-Nguyen",
     image:
       "https://freight.cargo.site/t/original/i/fd49ed92ae342fb055b74f8318cbc8b1990db3b1e7c9bff4e2caf9cd09b13c9d/Thumbnail-picture-1.jpg",
     type: "Interview",
@@ -45,7 +61,7 @@ for Contemporary Art`,
     image:
       "https://freight.cargo.site/t/original/i/ebea07c9b8e04a6fc411b265a9352c72aad2788aa9a62c2bfc9d1d08db1aa5f4/SR_BackToSchool4-1.png",
     type: "Spotlight On",
-    name: "Back-to-school: A teacher’s thoughts and worries",
+    name: "Back-to-School: A Teacher's Thoughts and Worries",
     description: `There have been mixed-feelings about this year’s back-to-school season. Sticky Rice’s Lifestyle editor and educator, Kevin Ah-Sen, shares his concern on the matter and those of concerned teachers and parents.`,
   },
   {
