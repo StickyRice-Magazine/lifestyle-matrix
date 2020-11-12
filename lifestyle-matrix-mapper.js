@@ -1,5 +1,13 @@
 const lifeStyleArticles = [
   {
+    link: "The-Tokyo-Aesthetic-Dispatches-from-the-Streets-of-Fashion-Week",
+    image:
+      "https://freight.cargo.site/t/original/i/1bc340c6cac4e3520e2b65e1a5ebef1cfb2831803ba0188689ef398ea174b00a/For-Sticky-7.jpg",
+    type: "Spotlight On",
+    name: "The Tokyo Aesthetic: Dispatches from the Streets of Fashion Week",
+    description: `Photographer Jean-Guillaume Bastin reminisces on his years spent chronicling Tokyo's celebrated October Fashion Week.`,
+  },
+  {
     link: "Drawing-Strength-from-Within-Perspectives-from-Mixed-Martial-Arts",
     image:
       "https://freight.cargo.site/t/original/i/099402d6f230b46dc26804b637818be0d9a03944007e1a7e0f6dfb8762cbe196/Stickyrice_MMA_homepage.jpg",
