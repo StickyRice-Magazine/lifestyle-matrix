@@ -1,4 +1,12 @@
 const lifeStyleArticles = [
+{
+    link: "The-Sixth-Love-Language",
+    image:
+      "https://freight.cargo.site/t/original/i/9a125feb46745d57a223926bafd59777226521eeaf97348bfacee30dea2624eb/thumbnail2.jpg",
+    type: "Spotlight On",
+    name: "The Sixth Love Language",
+    description: 'Writer Linh S. Nguyễn on how she learned to love in the language of food. ',
+  },
   {
     link: "The-Tokyo-Aesthetic-Dispatches-from-the-Streets-of-Fashion-Week",
     image:
