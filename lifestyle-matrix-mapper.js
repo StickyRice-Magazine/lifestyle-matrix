@@ -1,11 +1,19 @@
 const lifeStyleArticles = [
-{
+  {
+    link: "Weaving-Timelines-The-Seeds-Sow-Deeper-Than-We-Know",
+    image:
+      "https://freight.cargo.site/t/original/i/90c4091c13064f059f3bf4d85e437e847215dd8dd72c9e26ce616e42510c6569/Thumbnail-hero-min.png",
+    type: "Spotlight On",
+    name: "Weaving Timelines: The Seeds Sow Deeper Than We Know",
+    description: 'Visual artist Marshall Hoang threads together past and present in this stunning photo series. ',
+  },
+  {
     link: "The-Sixth-Love-Language",
     image:
       "https://freight.cargo.site/t/original/i/194c93624c054c3e8159621ae16670acd062be9e6f76f25095d39afceec230b6/thumbnail2.jpg",
     type: "Spotlight On",
     name: "The Sixth Love Language",
-    description: 'Writer Linh S. Nguyễn on how she learned to love in the language of food. ',
+    description: 'Writer Linh S. Nguyễn on how she learned to love in the language of food.',
   },
   {
     link: "The-Tokyo-Aesthetic-Dispatches-from-the-Streets-of-Fashion-Week",
