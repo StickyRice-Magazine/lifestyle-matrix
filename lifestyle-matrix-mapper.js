@@ -1,11 +1,19 @@
 const lifeStyleArticles = [
   {
+    link: "Anders-Kapur-Redefining-the-Americana-Image",
+    image:
+      "https://freight.cargo.site/t/original/i/397917f2c90ae8112bb7eb8f716656ddd9bd8bac5b34f37b6e4865ce0110a082/thumbnail_anders-min.jpg",
+    type: "Interview",
+    name: "Anders Kapur: Redefining the Americana Image",
+    description: 'New York-based singer-songwriter Anders Kapur flips the mythology of the white songwriter persona through his music.',
+  },
+  {
     link: "Weaving-Timelines-The-Seeds-Sow-Deeper-Than-We-Know",
     image:
       "https://freight.cargo.site/t/original/i/90c4091c13064f059f3bf4d85e437e847215dd8dd72c9e26ce616e42510c6569/Thumbnail-hero-min.png",
     type: "Spotlight On",
     name: "Weaving Timelines: The Seeds Sow Deeper Than We Know",
-    description: 'Visual artist Marshall Hoang threads together past and present in this stunning photo series. ',
+    description: 'Visual artist Marshall Hoang threads together past and present in this stunning photo series.',
   },
   {
     link: "The-Sixth-Love-Language",
