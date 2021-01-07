@@ -1,5 +1,13 @@
 const lifeStyleArticles = [
   {
+    link: "Becoming-Recollections-of-Home-Part-I",
+    image:
+      "https://freight.cargo.site/t/original/i/a9c60afacf36a68a806f33c761df59e5a53ec3a8349919c9c87fb9d9065eb741/Thumbnail_Resized-min-min.jpg",
+    type: "Spotlight On",
+    name: "Becoming: Recollections of Home (Part I)",
+    description: 'At a time when our lives exist extensively in the virtual realm, Becoming takes an autoethnographic look at our ever-shifting notions of home.',
+  },
+  {
     link: "Anders-Kapur-Redefining-the-Americana-Image",
     image:
       "https://freight.cargo.site/t/original/i/397917f2c90ae8112bb7eb8f716656ddd9bd8bac5b34f37b6e4865ce0110a082/thumbnail_anders-min.jpg",
