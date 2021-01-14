@@ -2,7 +2,7 @@ const lifeStyleArticles = [
   {
     link: "Becoming-Recollections-of-Home-Part-II",
     image:
-      "https://freight.cargo.site/t/original/i/74c8d0803bf4d628c9b58052bb4751d0c16b73c759338e4703c8afc4c92d04b8/Thumbnail.jpg",
+      "https://freight.cargo.site/t/original/i/22b6933971c50f00f02e5a0bb0228aaeaa34315c06a7474d6dfa7dbf13e5d006/Thumbnail.jpg",
     type: "Spotlight On",
     name: "Becoming: Recollections of Home (Part II)",
     description: 'Becoming: Jiā [家] (Part II) further reflects on fluctuating notions of home. Through a series of conversations and observations taken in Beijing, Becoming questions how notions of home shift and adapt over time.',
