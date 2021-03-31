@@ -1,4 +1,13 @@
 const lifeStyleArticles = [
+    {
+    link: "Love-Grit-Rock-N-Roll-Keeping-the-Dream-Alive-with-Susil-Sharma",
+    image:
+      "https://freight.cargo.site/w/1500/q/75/i/8d882344ece62039f1a608e2590fde66d39506a0facc7547a19d76d7e90a80b0/AAHMweb-4.jpg",
+    type: "Interview",
+    name: "Love, Grit & Rock 'N’ Roll: Keeping the Dream Alive with Susil Sharma",
+    description:
+      "The Nepalese singer-songwriter discusses his new album, BIPOC visibility in the music scene, and everything in between.",
+  },
   {
     link: "The-Centre-Cannot-Hold",
     image:
