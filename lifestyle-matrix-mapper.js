@@ -2,7 +2,7 @@ const lifeStyleArticles = [
     {
     link: "Love-Grit-Rock-N-Roll-Keeping-the-Dream-Alive-with-Susil-Sharma",
     image:
-      "https://freight.cargo.site/w/1500/q/75/i/8d882344ece62039f1a608e2590fde66d39506a0facc7547a19d76d7e90a80b0/AAHMweb-4.jpg",
+      "https://freight.cargo.site/t/original/i/764b9dafbb2e3cb2b974750fe74aec7318d492116b8a52521c6894a2886524d8/Thumbnail.jpg",
     type: "Interview",
     name: "Love, Grit & Rock 'N’ Roll: Keeping the Dream Alive with Susil Sharma",
     description:
