@@ -1,6 +1,6 @@
 const lifeStyleArticles = [
     {
-    link: "https://stickyrice-magazine.com/The-Food-That-Binds-Us-Together-A-Visual-Exploration",
+    link: "The-Food-That-Binds-Us-Together-A-Visual-Exploration",
     image:
       "https://freight.cargo.site/t/original/i/2d970474fd4b5f20a069b8c45a75c2374731350260616ede7770f80cef7217e5/Thumbnail.jpg",
     type: "Arts & Culture",
