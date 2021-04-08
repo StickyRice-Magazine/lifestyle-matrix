@@ -1,5 +1,14 @@
 const lifeStyleArticles = [
     {
+    link: "https://stickyrice-magazine.com/The-Food-That-Binds-Us-Together-A-Visual-Exploration",
+    image:
+      "https://freight.cargo.site/t/original/i/2d970474fd4b5f20a069b8c45a75c2374731350260616ede7770f80cef7217e5/Thumbnail.jpg",
+    type: "Arts & Culture",
+    name: "The Food That Binds Us Together: A Visual Exploration",
+    description:
+      "Visual artist Gloria Wong explores the relationship between food and intimacy/affection in Hong Kong diasporic communities.",
+  },
+    {
     link: "Love-Grit-Rock-N-Roll-Keeping-the-Dream-Alive-with-Susil-Sharma",
     image:
       "https://freight.cargo.site/t/original/i/764b9dafbb2e3cb2b974750fe74aec7318d492116b8a52521c6894a2886524d8/Thumbnail.jpg",
