@@ -2,7 +2,7 @@ const lifeStyleArticles = [
     {
     link: "The-Food-That-Binds-Us-Together-A-Visual-Exploration",
     image:
-      "https://freight.cargo.site/t/original/i/2d970474fd4b5f20a069b8c45a75c2374731350260616ede7770f80cef7217e5/Thumbnail.jpg",
+      "https://freight.cargo.site/t/original/i/8e8a4bd7b7651040337933365cc4226e39ec2b6911568232d6c72116265a0057/thefoodthatbinds-lifestyle.jpeg",
     type: "Arts & Culture",
     name: "The Food That Binds Us Together: A Visual Exploration",
     description:
