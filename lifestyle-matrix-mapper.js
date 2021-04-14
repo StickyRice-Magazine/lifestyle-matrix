@@ -1,4 +1,13 @@
 const lifeStyleArticles = [
+     {
+    link: "Charting-the-Future-of-ChinaTOwn",
+    image:
+      "https://freight.cargo.site/t/original/i/a1cbdf3cf808a813881ceb00780e731769dd8349ab251e48627774a459332b53/Hero-Image---Lifestyle-Page.jpg",
+    type: "Arts & Culture",
+    name: "Charting the Future of ChinaTOwn",
+    description:
+      "A conversation with Toronto-based artist, architect, and educator Linda Zhang.",
+  },
     {
     link: "The-Food-That-Binds-Us-Together-A-Visual-Exploration",
     image:
