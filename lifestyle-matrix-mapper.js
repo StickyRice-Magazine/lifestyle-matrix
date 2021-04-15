@@ -2,7 +2,7 @@ const lifeStyleArticles = [
      {
     link: "Charting-the-Future-of-ChinaTOwn",
     image:
-      "https://freight.cargo.site/t/original/i/4144c32a81ff86b50c65f560290ff9df174dd544abbb043a0ee29d0877d8a922/Hero-Image---Lifestyle-Page-4.png",
+      "https://freight.cargo.site/t/original/i/efb21cf3415cdd8677286a6cbe2d264d691f53f8c67ff14e97d5ba7e59b6b90d/Hero-Image---Lifestyle-Page-4-1.png",
     type: "Spotlight",
     name: "Charting the Future of ChinaTOwn",
     description:
@@ -11,7 +11,7 @@ const lifeStyleArticles = [
     {
     link: "The-Food-That-Binds-Us-Together-A-Visual-Exploration",
     image:
-      "https://freight.cargo.site/t/original/i/8e8a4bd7b7651040337933365cc4226e39ec2b6911568232d6c72116265a0057/thefoodthatbinds-lifestyle.jpeg",
+      "https://freight.cargo.site/t/original/i/af8d885ea072f41ccdb94984401249cacde30db3ff40279fac1156e7b00601f5/image-2.png",
     type: "Arts & Culture",
     name: "The Food That Binds Us Together: A Visual Exploration",
     description:
@@ -20,7 +20,7 @@ const lifeStyleArticles = [
     {
     link: "Love-Grit-Rock-N-Roll-Keeping-the-Dream-Alive-with-Susil-Sharma",
     image:
-      "https://freight.cargo.site/t/original/i/764b9dafbb2e3cb2b974750fe74aec7318d492116b8a52521c6894a2886524d8/Thumbnail.jpg",
+      "https://freight.cargo.site/t/original/i/94f616fc8f378d13437b52d7f8b433624d8b28e2cd0dac1fbd3ce431c50aede1/image-1.png",
     type: "Arts & Culture",
     name: "Love, Grit & Rock 'N’ Roll: Keeping the Dream Alive with Susil Sharma",
     description:
@@ -29,7 +29,7 @@ const lifeStyleArticles = [
   {
     link: "The-Centre-Cannot-Hold",
     image:
-      "https://freight.cargo.site/w/1500/q/75/i/8d882344ece62039f1a608e2590fde66d39506a0facc7547a19d76d7e90a80b0/AAHMweb-4.jpg",
+      "https://freight.cargo.site/t/original/i/748c597b8ecd7cce7b4590e320fe8742df1bfdd9b75e60a0db2af8cce8619814/aahm-4-1.png",
     type: "Spotlight",
     name: "The Centre Cannot Hold",
     description:
