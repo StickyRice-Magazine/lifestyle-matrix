@@ -47,7 +47,7 @@ const lifeStyleArticles = [
   {
     link: "Becoming-Recollections-of-Home-Part-II",
     image:
-      "https://freight.cargo.site/t/original/i/9c9919483ec215b87f7235e55f12c94a2c6eb1943c9f390229a3ee01ae5b4128/Thumbnail-4-1.png",
+      "https://freight.cargo.site/t/original/i/f037e03dc11901198465aefd21d12e3653307d2ebd93ef782c27f8ee814357ef/Becoming-Part-II.png",
     type: "Essay",
     name: "Becoming: Recollections of Home (Part II)",
     description:
