@@ -38,7 +38,7 @@ const lifeStyleArticles = [
   {
     link: "The-Centre-Cannot-Hold",
     image:
-      "https://freight.cargo.site/t/original/i/748c597b8ecd7cce7b4590e320fe8742df1bfdd9b75e60a0db2af8cce8619814/aahm-4-1.png",
+      "https://freight.cargo.site/t/original/i/5777acb2c3997a45f7de192e8cb890f3ddda38eecb4176d802af347849cd0376/aahm-4-1.png",
     type: "Spotlight",
     name: "The Centre Cannot Hold",
     description:
@@ -47,7 +47,7 @@ const lifeStyleArticles = [
   {
     link: "Becoming-Recollections-of-Home-Part-II",
     image:
-      "https://freight.cargo.site/t/original/i/5777acb2c3997a45f7de192e8cb890f3ddda38eecb4176d802af347849cd0376/aahm-4-1.png",
+      "https://freight.cargo.site/t/original/i/9c9919483ec215b87f7235e55f12c94a2c6eb1943c9f390229a3ee01ae5b4128/Thumbnail-4-1.png",
     type: "Essay",
     name: "Becoming: Recollections of Home (Part II)",
     description:
