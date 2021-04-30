@@ -1,5 +1,14 @@
 const lifeStyleArticles = [
      {
+    link: "SPAM",
+    image:
+      "https://freight.cargo.site/t/original/i/5aa2e45292fe9c2e9f33912d5078faad63211f6f28da02327d9e5d3b15e7af69/kitchen-a_741x930.jpg",
+    type: "Essay, Food",
+    name: "SPAM",
+    description:
+      "Part memoir. Part cultural examination. In this award-nominated piece, Nikki Celis explores his fascination of the eponymous canned food and its influence on the Filipino identity. ",
+  },
+     {
     link: "Charting-the-Future-of-ChinaTOwn",
     image:
       "https://freight.cargo.site/t/original/i/849c0beadbeeb9257d9fba6d9211206241f878e48204d5e8f02add812ceb45ac/Hero-Image---Lifestyle-Page-4.png",
