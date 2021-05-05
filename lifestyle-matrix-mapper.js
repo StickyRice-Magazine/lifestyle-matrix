@@ -1,5 +1,14 @@
 const lifeStyleArticles = [
      {
+    link: "Le-Festival-Acces-Asi-Vu-a-travers-Khosro-Berahmandi",
+    image:
+      "https://freight.cargo.site/t/original/i/d05f9d34f30a721f70a07a6372d46ffc3639fe046e81fb87f03d4b828f79a591/Khosro-741x930-Thumbnail.jpg",
+    type: "Arts & Culture",
+    name: "Le Festival Accès Asie Vu à travers Khosro Berahmandi",
+    description:
+      "Lecturer and art curator Amandine Davre discusses Festival Accès Asie’s latest online edition with festival artistic director Khosro Berahmandi.",
+  },
+     {
     link: "SPAM",
     image:
       "https://freight.cargo.site/t/original/i/5aa2e45292fe9c2e9f33912d5078faad63211f6f28da02327d9e5d3b15e7af69/kitchen-a_741x930.jpg",
