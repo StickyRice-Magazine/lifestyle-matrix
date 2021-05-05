@@ -1,6 +1,6 @@
 const lifeStyleArticles = [
      {
-    link: "Le-Festival-Acces-Asi-Vu-a-travers-Khosro-Berahmandi",
+    link: "Le-Festival-Acces-Asie-Vu-a-travers-Khosro-Berahmandi",
     image:
       "https://freight.cargo.site/t/original/i/d05f9d34f30a721f70a07a6372d46ffc3639fe046e81fb87f03d4b828f79a591/Khosro-741x930-Thumbnail.jpg",
     type: "Arts & Culture",
