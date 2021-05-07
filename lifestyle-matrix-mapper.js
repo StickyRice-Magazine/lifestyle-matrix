@@ -1,4 +1,13 @@
 const lifeStyleArticles = [
+       {
+    link: "A-tous-nos-nouveaux-departs-To-All-Our-New-Beginnings",
+    image:
+      "https://freight.cargo.site/t/original/i/d6f5d569aa8ce1345737c7dd7cfcb8706c8ebe8652cc606bcfc0626e3ee9d999/Ange-Thumbnail-741-x-930.jpg",
+    type: "Essay",
+    name: "À tous nos nouveaux départs / To All Our New Beginnings [EN/FR]",
+    description:
+      "Through an examination of past and present, Angelina Guo shares her thoughts on new beginnings, self-compassion, and the role of writing in the healing process.",
+  },
      {
     link: "Le-Festival-Acces-Asie-Vu-a-travers-Khosro-Berahmandi",
     image:
