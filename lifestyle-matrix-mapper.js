@@ -1,5 +1,14 @@
 const lifeStyleArticles = [
        {
+    link: "UNOTHERED-Closer",
+    image:
+      "https://freight.cargo.site/t/original/i/243e8fe39f7766d0ef3b04c35e137108321ddade6b4492f11700110033239514/Thumbnail-731x940.jpg",
+    type: "Essay",
+    name: "UNOTHERED: Closer",
+    description:
+      "Visual artist Feng峰 presents a solution process to otherness through a series of intimate portraits.",
+  },
+       {
     link: "A-tous-nos-nouveaux-departs-To-All-Our-New-Beginnings",
     image:
       "https://freight.cargo.site/t/original/i/d6f5d569aa8ce1345737c7dd7cfcb8706c8ebe8652cc606bcfc0626e3ee9d999/Ange-Thumbnail-741-x-930.jpg",
