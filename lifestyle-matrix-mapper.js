@@ -1,5 +1,32 @@
 const lifeStyleArticles = [
        {
+    link: "Chinatown-Tea-Leaves",
+    image:
+      "https://freight.cargo.site/t/original/i/00da44f38a391e0071dd1846317dfe7be76ad4cec66b89d1dea9f460f963ef84/WEBSITE-THUMBNAIL.jpg",
+    type: "Arts & Culture",
+    name: "Chinatown Tea Leaves",
+    description:
+      "Text Text Text",
+  },
+       {
+    link: "Carving-the-Self-Out-of-Metal-and-Stone",
+    image:
+      "https://freight.cargo.site/t/original/i/e3c506c967caa1598e50191d585f38e0586bdb67f0a5c569b68d9b08d3050b19/Thumbnail-941-x-930-Carving-The-Self.jpg",
+    type: "Arts & Culture",
+    name: "Carving the Self Out of Metal and Stone",
+    description:
+      "A conversation with Caroline Pham of ORA-C and Lina Hu of YUUN on their jewelry brands and running small businesses in Montreal.",
+  },
+       {
+    link: "Nose-Kisses-on-the-Screen",
+    image:
+      "https://freight.cargo.site/t/original/i/be28bb11396f568d4cca3b085885d84c30cef2218e99c267e4caf8f1435790e8/thumbnail-nose-kisses.JPG",
+    type: "Essay",
+    name: "Nose Kisses on the Screen",
+    description:
+      "Linh Nguyễn finds alternative ways of connecting while longing for reunion amidst a worldwide lockdown.",
+  },
+       {
     link: "UNOTHERED-Closer",
     image:
       "https://freight.cargo.site/t/original/i/243e8fe39f7766d0ef3b04c35e137108321ddade6b4492f11700110033239514/Thumbnail-731x940.jpg",
