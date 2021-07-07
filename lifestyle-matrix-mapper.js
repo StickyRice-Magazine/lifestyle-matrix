@@ -6,7 +6,7 @@ const lifeStyleArticles = [
     type: "Arts & Culture",
     name: "Chinatown Tea Leaves",
     description:
-      "Text Text Text",
+      "Chinatown Tea Leaves is a short documentary about tea master Howard Low and his tea shop in Montréal, Spécialithé.",
   },
        {
     link: "Carving-the-Self-Out-of-Metal-and-Stone",
