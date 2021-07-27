@@ -2,7 +2,7 @@ const lifeStyleArticles = [
        {
     link: "Creating-Conversations",
     image:
-      "https://freight.cargo.site/t/original/i/df5c9f89428ad511f6a5c447f258188f6ef11a7364d3fbbe55f9328c0652dcb7/HEADER.jpg",
+      "https://freight.cargo.site/t/original/i/babfdb5dca158a5e62f685ee9d862ebb0524620847f21dc93d6554f7bed2089a/StHenri5.jpg",
     type: "Arts & Culture",
     name: "Creating Conversations: Reading Recommendations from Weird Era x Librairie St-Henri Bookss",
     description:
