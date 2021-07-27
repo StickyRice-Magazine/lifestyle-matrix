@@ -1,5 +1,14 @@
 const lifeStyleArticles = [
        {
+    link: "Creating-Conversations",
+    image:
+      "https://freight.cargo.site/t/original/i/df5c9f89428ad511f6a5c447f258188f6ef11a7364d3fbbe55f9328c0652dcb7/HEADER.jpg",
+    type: "Arts & Culture",
+    name: "Creating Conversations: Reading Recommendations from Weird Era x Librairie St-Henri Bookss",
+    description:
+      "A curated list of recommended reading by Asian authors and authors of colour from the founder of Weird Era, in partnership with Montreal’s Librairie St-Henri Books.",
+  },
+       {
     link: "Chinatown-Tea-Leaves",
     image:
       "https://freight.cargo.site/t/original/i/00da44f38a391e0071dd1846317dfe7be76ad4cec66b89d1dea9f460f963ef84/WEBSITE-THUMBNAIL.jpg",
