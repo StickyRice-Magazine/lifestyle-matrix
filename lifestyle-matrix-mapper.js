@@ -1,10 +1,28 @@
 const lifeStyleArticles = [
-       {
+  {
+    link: "Aberrance-Tradition-Redefining-Beauty-from-the-Past",
+    image:
+      "https://freight.cargo.site/t/original/i/ea5051add04dc18e29edf88c913a24d8d242513c6e7866a840ed361be12cdcdb/ThumbnailRicky.jpg",
+    type: "Arts & Culture",
+    name: "Aberrance & Tradition: Redefining Beauty from the Past",
+    description:
+      "",
+  },
+  {
+    link: "Archival-Photo-Account-Montreal-Then-And-Now-on-a-Chinatown-Capsule",
+    image:
+      "https://freight.cargo.site/t/original/i/c5246ee050e679fcb4e52cd53837c8c7548d941866de1083c7f0501a631dfecc/Crop-Chinatown-730-x-941.jpg",
+    type: "Arts & Culture",
+    name: "Archival Photo Account Montreal: Then And Now on a Chinatown Capsule",
+    description:
+      "A collaboration between Elijah Herron and Wawa Li,about visual impact and current realities.",
+  },
+  {
     link: "Creating-Conversations",
     image:
       "https://freight.cargo.site/t/original/i/babfdb5dca158a5e62f685ee9d862ebb0524620847f21dc93d6554f7bed2089a/StHenri5.jpg",
     type: "Arts & Culture",
-    name: "Creating Conversations: Reading Recommendations from Weird Era x Librairie St-Henri Bookss",
+    name: "Creating Conversations: Reading Recommendations from Weird Era x Librairie St-Henri Books",
     description:
       "A curated list of recommended reading by Asian authors and authors of colour from the founder of Weird Era, in partnership with Montreal’s Librairie St-Henri Books.",
   },
