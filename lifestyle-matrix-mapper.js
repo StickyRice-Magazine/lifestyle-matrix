@@ -1,4 +1,13 @@
 const lifeStyleArticles = [
+    {
+    link: "Pride-In-Chinatown",
+    image:
+      "https://freight.cargo.site/t/original/i/8833b6aa1568d2f303334fe0725da097bb7fa7a3bdc6d399a810acb652a50e23/Thumbnail-Crop-741-x-930.jpg",
+    type: "Arts & Culture",
+    name: "Pride In Chinatown",
+    description:
+      "Sticky Rice Magazine celebrates its first anniversary by exploring the meaning of pride.",
+  },
   {
     link: "Aberrance-Tradition-Redefining-Beauty-from-the-Past",
     image:
@@ -6,7 +15,7 @@ const lifeStyleArticles = [
     type: "Arts & Culture",
     name: "Aberrance & Tradition: Redefining Beauty from the Past",
     description:
-      "",
+      "Fantasy and surrealism as a means of self-expression.",
   },
   {
     link: "Archival-Photo-Account-Montreal-Then-And-Now-on-a-Chinatown-Capsule",
