@@ -1,4 +1,13 @@
 const lifeStyleArticles = [
+  {
+    link: "A-Recipe-Toward-World-Peace",
+    image:
+      "https://freight.cargo.site/t/original/i/e6d5b95dcc1b42d6ba7c287555361074a65eedb55665f6db13a51672f641a80e/Thumbnail-Crop-731-x-940.jpg",
+    type: "People",
+    name: "A Recipe Toward World Peace",
+    description:
+      "An interview with team Courage ahead of the 2021 Montreal municipal election.",
+  },
     {
     link: "Pride-In-Chinatown",
     image:
