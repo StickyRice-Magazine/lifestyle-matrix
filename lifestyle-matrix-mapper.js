@@ -1,5 +1,14 @@
 const lifeStyleArticles = [
   {
+    link: "La-verite-derriere-deux-noms",
+    image:
+      "https://freight.cargo.site/t/original/i/011c82f5fa0651d39cd7b23e60820ce41becbae2fb73e274b5032bcf1bf8e0de/Thumbnail-741-x-930.jpg",
+    type: "Essay",
+    name: "La vérité derrière deux noms",
+    description:
+      "My-Van Dam chooses to affirm her name. [FR]",
+  },
+  {
     link: "A-Recipe-Toward-World-Peace",
     image:
       "https://freight.cargo.site/t/original/i/e6d5b95dcc1b42d6ba7c287555361074a65eedb55665f6db13a51672f641a80e/Thumbnail-Crop-731-x-940.jpg",
