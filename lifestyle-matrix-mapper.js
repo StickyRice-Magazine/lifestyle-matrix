@@ -1,5 +1,14 @@
 const lifeStyleArticles = [
   {
+    link: "In-Conversation-Johnny-Kim-on-Fatherhood-Fashion-and-Cambodian",
+    image:
+      "https://freight.cargo.site/t/original/i/5054e45c8327f3f6c3fa19d76223b3a3ecfe690c1ac7d206b6c775bc9eab3ab3/Thumbnail_Resized-741x930.jpg",
+    type: "Arts & Culture",
+    name: "In Conversation: Johnny Kim on Fatherhood, Fashion, and Cambodian Identity",
+    description:
+      "In conversation: Multifaceted creative Johnny F. Kim talks fatherhood, creativity and Cambodian identity",
+  },
+  {
     link: "La-verite-derriere-deux-noms",
     image:
       "https://freight.cargo.site/t/original/i/011c82f5fa0651d39cd7b23e60820ce41becbae2fb73e274b5032bcf1bf8e0de/Thumbnail-741-x-930.jpg",
