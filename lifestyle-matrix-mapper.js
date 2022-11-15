@@ -1,5 +1,14 @@
 const lifeStyleArticles = [
   {
+    link: "The-Great-Canadian-Baking-Show",
+    image:
+      "https://freight.cargo.site/t/original/i/33b4095a6dde2d67ac2f13452505ed2e5c4865af4cfd2d58a49bc30ed3a90e4e/Vertical-Thumbnail.png",
+    type: "Arts & Culture",
+    name: "The Joy (And Nostalgia) of Baking",
+    description:
+      "The Asian-Canadian bakers of season six of The Great Canadian Baking Show tells us about the delicious treats that defined their childhoods. ",
+  },
+  {
     link: "In-Conversation-Johnny-Kim-on-Fatherhood-Fashion-and-Cambodian",
     image:
       "https://freight.cargo.site/t/original/i/5054e45c8327f3f6c3fa19d76223b3a3ecfe690c1ac7d206b6c775bc9eab3ab3/Thumbnail_Resized-741x930.jpg",
