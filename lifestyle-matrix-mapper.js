@@ -1,5 +1,14 @@
 const lifeStyleArticles = [
   {
+    link: "Le-peigne",
+    image:
+      "https://freight.cargo.site/t/original/i/616166f127d1d120e3f3aa11c29fc1a09cdef64daf9f7e6691bd279b685bc9ab/Le-Peigne-Landing-Thumbnail.jpg",
+    type: "Arts & Culture",
+    name: "Le Peigne",
+    description:
+      "Artist Wawa Li walks us through the process behind the 300-pound Chinatown recycled plastic sculpture, The Comb (“le peigne”)",
+  },
+  {
     link: "The-Great-Canadian-Baking-Show",
     image:
       "https://freight.cargo.site/t/original/i/33b4095a6dde2d67ac2f13452505ed2e5c4865af4cfd2d58a49bc30ed3a90e4e/Vertical-Thumbnail.png",
@@ -23,8 +32,7 @@ const lifeStyleArticles = [
       "https://freight.cargo.site/t/original/i/011c82f5fa0651d39cd7b23e60820ce41becbae2fb73e274b5032bcf1bf8e0de/Thumbnail-741-x-930.jpg",
     type: "Essay",
     name: "La vérité derrière deux noms",
-    description:
-      "My-Van Dam chooses to affirm her name. [FR]",
+    description: "My-Van Dam chooses to affirm her name. [FR]",
   },
   {
     link: "A-Recipe-Toward-World-Peace",
@@ -35,7 +43,7 @@ const lifeStyleArticles = [
     description:
       "An interview with team Courage ahead of the 2021 Montreal municipal election.",
   },
-    {
+  {
     link: "Pride-In-Chinatown",
     image:
       "https://freight.cargo.site/t/original/i/8833b6aa1568d2f303334fe0725da097bb7fa7a3bdc6d399a810acb652a50e23/Thumbnail-Crop-741-x-930.jpg",
@@ -50,8 +58,7 @@ const lifeStyleArticles = [
       "https://freight.cargo.site/t/original/i/ea5051add04dc18e29edf88c913a24d8d242513c6e7866a840ed361be12cdcdb/ThumbnailRicky.jpg",
     type: "Arts & Culture",
     name: "Aberrance & Tradition: Redefining Beauty from the Past",
-    description:
-      "Fantasy and surrealism as a means of self-expression.",
+    description: "Fantasy and surrealism as a means of self-expression.",
   },
   {
     link: "Archival-Photo-Account-Montreal-Then-And-Now-on-a-Chinatown-Capsule",
@@ -71,7 +78,7 @@ const lifeStyleArticles = [
     description:
       "A curated list of recommended reading by Asian authors and authors of colour from the founder of Weird Era, in partnership with Montreal’s Librairie St-Henri Books.",
   },
-       {
+  {
     link: "Chinatown-Tea-Leaves",
     image:
       "https://freight.cargo.site/t/original/i/00da44f38a391e0071dd1846317dfe7be76ad4cec66b89d1dea9f460f963ef84/WEBSITE-THUMBNAIL.jpg",
@@ -80,7 +87,7 @@ const lifeStyleArticles = [
     description:
       "Chinatown Tea Leaves is a short documentary about tea master Howard Low and his tea shop in Montréal, Spécialithé.",
   },
-       {
+  {
     link: "Carving-the-Self-Out-of-Metal-and-Stone",
     image:
       "https://freight.cargo.site/t/original/i/e3c506c967caa1598e50191d585f38e0586bdb67f0a5c569b68d9b08d3050b19/Thumbnail-941-x-930-Carving-The-Self.jpg",
@@ -89,7 +96,7 @@ const lifeStyleArticles = [
     description:
       "A conversation with Caroline Pham of ORA-C and Lina Hu of YUUN on their jewelry brands and running small businesses in Montreal.",
   },
-       {
+  {
     link: "Nose-Kisses-on-the-Screen",
     image:
       "https://freight.cargo.site/t/original/i/be28bb11396f568d4cca3b085885d84c30cef2218e99c267e4caf8f1435790e8/thumbnail-nose-kisses.JPG",
@@ -98,7 +105,7 @@ const lifeStyleArticles = [
     description:
       "Linh Nguyễn finds alternative ways of connecting while longing for reunion amidst a worldwide lockdown.",
   },
-       {
+  {
     link: "UNOTHERED-Closer",
     image:
       "https://freight.cargo.site/t/original/i/243e8fe39f7766d0ef3b04c35e137108321ddade6b4492f11700110033239514/Thumbnail-731x940.jpg",
@@ -107,7 +114,7 @@ const lifeStyleArticles = [
     description:
       "Visual artist Feng峰 presents a solution process to otherness through a series of intimate portraits.",
   },
-       {
+  {
     link: "A-tous-nos-nouveaux-departs-To-All-Our-New-Beginnings",
     image:
       "https://freight.cargo.site/t/original/i/d6f5d569aa8ce1345737c7dd7cfcb8706c8ebe8652cc606bcfc0626e3ee9d999/Ange-Thumbnail-741-x-930.jpg",
@@ -116,7 +123,7 @@ const lifeStyleArticles = [
     description:
       "Through an examination of past and present, Angelina Guo shares her thoughts on new beginnings, self-compassion, and the role of writing in the healing process.",
   },
-     {
+  {
     link: "Le-Festival-Acces-Asie-Vu-a-travers-Khosro-Berahmandi",
     image:
       "https://freight.cargo.site/t/original/i/d05f9d34f30a721f70a07a6372d46ffc3639fe046e81fb87f03d4b828f79a591/Khosro-741x930-Thumbnail.jpg",
@@ -125,7 +132,7 @@ const lifeStyleArticles = [
     description:
       "Lecturer and art curator Amandine Davre discusses Festival Accès Asie’s latest online edition with festival artistic director Khosro Berahmandi.",
   },
-     {
+  {
     link: "SPAM",
     image:
       "https://freight.cargo.site/t/original/i/5aa2e45292fe9c2e9f33912d5078faad63211f6f28da02327d9e5d3b15e7af69/kitchen-a_741x930.jpg",
@@ -134,7 +141,7 @@ const lifeStyleArticles = [
     description:
       "Part memoir. Part cultural examination. In this award-nominated piece, Nikki Celis explores his fascination of the eponymous canned food and its influence on the Filipino identity. ",
   },
-     {
+  {
     link: "Charting-the-Future-of-ChinaTOwn",
     image:
       "https://freight.cargo.site/t/original/i/849c0beadbeeb9257d9fba6d9211206241f878e48204d5e8f02add812ceb45ac/Hero-Image---Lifestyle-Page-4.png",
@@ -143,7 +150,7 @@ const lifeStyleArticles = [
     description:
       "A conversation with Toronto-based artist, architect, and educator Linda Zhang.",
   },
-    {
+  {
     link: "The-Food-That-Binds-Us-Together-A-Visual-Exploration",
     image:
       "https://freight.cargo.site/t/original/i/7751af227cc2491ae3d6d1895bc93103b9ceef2a99964292ec901f4e0d837361/image-2.png",
@@ -152,7 +159,7 @@ const lifeStyleArticles = [
     description:
       "Visual artist Gloria Wong explores the relationship between food and intimacy/affection in Hong Kong diasporic communities.",
   },
-    {
+  {
     link: "Love-Grit-Rock-N-Roll-Keeping-the-Dream-Alive-with-Susil-Sharma",
     image:
       "https://freight.cargo.site/t/original/i/4abf0134b5b3b48cb96fa27ed2ba5b9421af2b5247cbf229397f1e5fc3477807/image-1.png",
@@ -228,8 +235,7 @@ const lifeStyleArticles = [
     image:
       "https://freight.cargo.site/t/original/i/099402d6f230b46dc26804b637818be0d9a03944007e1a7e0f6dfb8762cbe196/Stickyrice_MMA_homepage.jpg",
     type: "People",
-    name:
-      "Drawing Strength from Within: Perspectives from Mixed Martial Arts Fighters",
+    name: "Drawing Strength from Within: Perspectives from Mixed Martial Arts Fighters",
     description: `Celebrated coach and trainer Christian Hip reflects on the art of MMA, and sits down with some of the best fighters (and coaches) in the field.`,
   },
   {
