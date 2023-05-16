@@ -1,5 +1,14 @@
 const lifeStyleArticles = [
   {
+    link: "Wisdom-Of-Youth",
+    image:
+      "https://freight.cargo.site/w/1500/q/75/i/44e0f2b1de259f40a2b45b3e9624782c78119943950e8a5231f12788478f57d1/Copy-of-LLL-27-of-28.jpg",
+    type: "Arts & Culture",
+    name: "Wisdom Of Youth",
+    description:
+      "The show must go on with the Linda Lindas. Meet the next generation of rockstars and bubble tea lovers.",
+  },
+  {
     link: "Le-peigne",
     image:
       "https://freight.cargo.site/t/original/i/616166f127d1d120e3f3aa11c29fc1a09cdef64daf9f7e6691bd279b685bc9ab/Le-Peigne-Landing-Thumbnail.jpg",
