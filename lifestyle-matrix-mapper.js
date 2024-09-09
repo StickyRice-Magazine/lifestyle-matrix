@@ -124,15 +124,6 @@ const lifeStyleArticles = [
       "Visual artist Feng峰 presents a solution process to otherness through a series of intimate portraits.",
   },
   {
-    link: "A-tous-nos-nouveaux-departs-To-All-Our-New-Beginnings",
-    image:
-      "https://freight.cargo.site/t/original/i/d6f5d569aa8ce1345737c7dd7cfcb8706c8ebe8652cc606bcfc0626e3ee9d999/Ange-Thumbnail-741-x-930.jpg",
-    type: "Essay",
-    name: "À tous nos nouveaux départs / To All Our New Beginnings [EN/FR]",
-    description:
-      "Through an examination of past and present, Angelina Guo shares her thoughts on new beginnings, self-compassion, and the role of writing in the healing process.",
-  },
-  {
     link: "Le-Festival-Acces-Asie-Vu-a-travers-Khosro-Berahmandi",
     image:
       "https://freight.cargo.site/t/original/i/d05f9d34f30a721f70a07a6372d46ffc3639fe046e81fb87f03d4b828f79a591/Khosro-741x930-Thumbnail.jpg",
